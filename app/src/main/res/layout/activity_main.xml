@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop= "150dp"
-        android:text="Hello World Cam!"
+        android:text="Hello Cam!"
         android:textSize="40sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
