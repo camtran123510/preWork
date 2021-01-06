@@ -24,3 +24,5 @@
    - [ ] a. User can enter text into a text field using the keyboard.  
    - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.  
    - [ ] c. If the text field is empty, update label with default text string.  
+
+http://g.recordit.co/Ow6n9N5G7T.gif
